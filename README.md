@@ -9,4 +9,4 @@ As a feature, "Chat" has chatbot: click on it in the main screen and you can eas
 
 NOTE: client doesn`t work until you connect to server (this project is in repository CN_CourseProject_Server).
 
-In order to run this application you have to start EXE-file after executing server.
+In order to run this application you have to start EXE-file after executing server. If you need EXE-file - contact me.
